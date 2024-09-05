@@ -1,6 +1,6 @@
 # Hi there, I'm Muskan Hassanandani! 👋
 
-## 🎓 Educator and Innovator
+## 🎓 Education
 
 - 🏫 Pursuing a Master's in Computer Science at the Viterbi School of Engineering, California.
 - 🎖 Bachelor of Engineering in Computer Engineering with Distinction from Vivekanand Education Society's Institute of Technology, Mumbai.
